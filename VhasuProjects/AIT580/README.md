@@ -1,9 +1,9 @@
-Mental Health Care Analysis – Last 4 Weeks
+# Mental Health Care Analysis – Last 4 Weeks
 
-Overview:
+## Overview
 This project analyzes mental health care trends in the United States using survey data collected from August 2020 onwards. The aim is to understand how individuals accessed mental health services such as therapy, counseling, and prescription medication, and how these patterns vary across age groups, income levels, and geographic regions. The project focuses on identifying disparities in access to mental health care and observing changes over time, especially during and after the COVID-19 period.
 
-Objectives: 
+## Objectives
 1) Analyze trends in mental health care usage over time
 
 2) Identify demographic gaps in access to services
@@ -14,11 +14,10 @@ Objectives:
 
 5) Provide insights that can support better healthcare policies and decisions
 
-Dataset: 
+## Dataset
 Source: Data.gov – Mental Health Care in the Last 4 Weeks
 
 Includes:
-
 1) Prescription medication usage
 
 2) Counseling or therapy participation
@@ -29,8 +28,7 @@ Includes:
 
 5) Time periods and confidence intervals
 
-Tools & Technologies Used: 
-
+## Tools & Technologies Used
 1) Python – Data cleaning and visualization
 
 	1) Pandas
@@ -45,7 +43,7 @@ Tools & Technologies Used:
 
 4) Jupyter Notebook – Development environment
 
-Methodology:
+## Methodology
 1) Data Preprocessing
 
 	1) Handling missing values
@@ -70,7 +68,7 @@ Methodology:
 
 	3) Demographic trend comparisons
 
-Key Findings: 
+## Key Findings
 1) Mental health concerns such as anxiety and depression vary significantly across demographics and regions.
 
 2) States like California, Texas, and New York show comparatively higher availability of mental health services.
@@ -79,7 +77,7 @@ Key Findings:
 
 4) Telehealth services played an important role in improving accessibility after the pandemic.
 
-Conclusion: 
+## Conclusion
 The analysis highlights clear disparities in mental health care access across states, income levels, and demographic groups. Improved policy support, funding allocation, and expansion of telehealth services are essential to ensure equitable mental health care access for all communities.
 
 How to Run: 
@@ -89,6 +87,7 @@ How to Run:
 2) Open Jupyter Notebook
 
 3) Run the analysis notebooks
+
 
 
 
