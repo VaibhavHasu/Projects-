@@ -1,10 +1,5 @@
 
-# README
-
-## Project Title
-Big Data Processing and Analysis - AIT 614 Project 
-
-
+# Big Data Processing and Analysis - AIT 614 Project 
 
 ## Objective
 The project focuses on applying Big Data techniques to process, analyze, and derive insights using Hadoop, PySpark, Spark MLlib, and DBFS environments on Databricks and Google Colab.
@@ -29,7 +24,7 @@ The project focuses on applying Big Data techniques to process, analyze, and der
 Primary Dataset used:  
 FHWA Bridge Conditions Dataset  
 You can find similar datasets here:  
-👉 https://www.fhwa.dot.gov/bridge/nbi/ascii.cfm
+   https://www.fhwa.dot.gov/bridge/nbi/ascii.cfm
 
 Upload the CSV dataset to Google Colab / Databricks DBFS before running the notebooks.
 
